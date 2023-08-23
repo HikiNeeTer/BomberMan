@@ -25,3 +25,5 @@ Purpose for creating this game is for learning/creating a bomberman mechanic
 </ul>
 
 **Library** : GLFW / GLAD / GLM / irrKlang / SOIL / CDTLib
+
+![Screenshot](BomberMan/WorkingDir/GamePlay.png)
